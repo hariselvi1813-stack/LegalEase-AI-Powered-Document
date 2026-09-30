@@ -1,0 +1,6 @@
+{
+  "name": "LegalEase - AI Legal Document Generator",
+  "description": "A stable, beginner-friendly AI legal document generator for NDAs, employment contracts, lease agreements, and freelance contracts with free tier Gemini and realistic offline demo mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
